@@ -51,6 +51,26 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |31| revision about:pointers, arrays & string library|
 |32| gcd & lcm calculator in C|
 |33| program that does: avg of even, odd& all the elements of an array(A), displays the min ele of A as well as the nb of times it occures|
+|34| number triangle|
+|35| trapezoid|
+|36| spiral matrix|
+|37| binary search game|
+|38| bubble sort|
+|39| reverse string|
+|40| functions in c|
+|41| passing arrays to functions|
+|42| find max|
+|43| reverse arrays|
+|44| pointers|
+|45| building air drawing app with hand tracking|
+|46| pointers arithmetics|
+|47| pointers 2|
+|48| digital birthday candles|
+|49| arrays+pointers|
+|50| ptrs+arr+fct|
+|51| dynamic allocation|
+|52| reversing a dy alloc|
+|53| dictionaries in py|
 
 ---
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
