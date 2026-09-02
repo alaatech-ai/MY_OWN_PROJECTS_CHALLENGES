@@ -13,7 +13,9 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 - Focus: basics, loops, functions, arrays(2d), pointers, strings,..... 
 - # 📅 Progress Log
 |01|quadratic equation solution|
+
 |02| bmi calculator|
+
 |03| for,do while and while loops|
 |04| printing diff squares|
 |05| arrays in 2 dimensions|
