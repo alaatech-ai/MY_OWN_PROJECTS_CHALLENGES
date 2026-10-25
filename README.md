@@ -1,6 +1,6 @@
 # 🚀 100 Days of Code Challenge - Alaatech AI
 
-Welcome to my coding journey! I am a Computer Science student dedicated to mastering the art of programming and building future-ready AI solutions.
+Welcome to my coding journey! I am a Computer Science student dedicated to mastering the art of programming...
 
 > "Crafting Tomorrow, Byte by Bit."
 
@@ -204,4 +204,8 @@ The mission is to write and share a new piece of code every 48 hours for the nex
 |93| reversing word(string with recursion)|
 
 |94| library manager(structure)|
+
+|95| race timing and speed calculation program|
+
+
 *Follow my journey on [LinkedIn](https://www.linkedin.com/in/ala%C3%A0-obeid-6298803ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
