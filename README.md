@@ -1,4 +1,4 @@
-# 🚀 100 Days of Code Challenge - Alaatech AI
+# 🚀 100 Days of Code Challenge :DONE! 
 
 Welcome to my coding journey! I am a Computer Science student dedicated to mastering the art of programming...
 
@@ -8,8 +8,8 @@ Welcome to my coding journey! I am a Computer Science student dedicated to maste
 The mission is to write and share a new piece of code every 48 hours for the next 100 days. This repository serves as a timeline of my growth, logic building, and problem-solving skills.
 
 ## 🛠 Tech Stack
-- Languages:  C and python (Currently Learning)
-- Tools: GitHub, VS Code, PYcharm, freecodecampus
+- Languages:  C, python and JS.
+- Tools: GitHub, VS Code, PYcharm, freecodecamp , university.
 - Focus: basics, loops, functions, arrays(2d), pointers, strings,..... 
 - # 📅 Progress Log
 |01|quadratic equation solution|
